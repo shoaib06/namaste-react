@@ -1,4 +1,4 @@
-{
+const restList={
   "sections": {
     "SECTION_SEARCH_RESULT": [
       {
@@ -1923,3 +1923,5 @@
     ]   
   }
 }
+
+export default restList;

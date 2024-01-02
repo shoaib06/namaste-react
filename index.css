@@ -68,6 +68,12 @@
 .search{
     padding: 20px;
 }
+.topBtn{
+    padding: 20px;
+}
+.filter{
+    margin-top: 10px;
+}
 .res-card{
     width:200px;
     height: 350px;
